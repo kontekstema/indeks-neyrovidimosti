@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Если используете данные или методику, сошлитесь на них так."
+title: "Индекс контекстемы: открытые данные рейтингов компаний в ответах нейросетей"
+authors:
+  - family-names: Rutsinskaya
+    given-names: Daria
+  - family-names: Makrushenko
+    given-names: Igor
+url: "https://kontekstema.ru"
+repository-code: "https://github.com/kontekstema/indeks-neyrovidimosti"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23499257
+    description: "Методика индекса контекстемы"
+license: CC-BY-4.0
