@@ -1,6 +1,8 @@
 # Индекс контекстемы: открытые данные
 
-Институт нейрокоммуникаций «Контекстема» проверяет, что нейросети говорят о компаниях, когда покупатель спрашивает у них совета. Мы задаем Алисе, GigaChat, ChatGPT и другим нейросетям вопросы покупателей и разбираем каждый ответ, где названа компания. Здесь лежат данные этих замеров и ссылки на методику.
+Институт нейрокоммуникаций «Контекстема» изучает, как нейросети пересказывают людям мир: компании, людей, новости, историю и классику. Мы меряем это открытыми методиками, ведем индекс контекстемы и Словарь Контекстемы, выпускаем исследования и рейтинги отраслей и учим людей и компании говорить так, чтобы нейросеть передала их смысл точно. Методики и данные замеров выкладываем в открытый доступ, чтобы исследователь мог проверить и повторить результат.
+
+В этом репозитории лежат данные замеров по рейтингам отраслей: мы задаем нейросетям вопросы покупателей и разбираем каждый ответ, где названа компания.
 
 ## Что меряет индекс
 
@@ -46,6 +48,6 @@
 
 ## About (English)
 
-Kontekstema Institute of Neurocommunications measures how AI assistants (Alice, GigaChat, ChatGPT, Claude, Gemini, Perplexity, DeepSeek, Qwen) describe companies when users ask for advice. Each statement about a company is scored on four questions: why the company was named, which competitors it is placed with, whether it is recommended, and whether the facts are correct. This repository holds open data from our industry ratings, licensed under CC BY 4.0. Methodology: DOI 10.5281/zenodo.23499257. Website: [kontekstema.ru](https://kontekstema.ru).
+Kontekstema Institute of Neurocommunications studies how AI retells the world to people: companies, people, news, history and classics. We measure this with open methods, maintain the Kontekstema Index and the Kontekstema Dictionary, publish research and industry ratings, and teach people and companies to communicate so that AI conveys their meaning accurately. For the ratings we ask AI (Alice, GigaChat, ChatGPT, Claude, Gemini, Perplexity, DeepSeek, Qwen) buyers' questions and score every answer that names a company. Each statement about a company is scored on four questions: why the company was named, which competitors it is placed with, whether it is recommended, and whether the facts are correct. This repository holds open data from our industry ratings, licensed under CC BY 4.0. Methodology: DOI 10.5281/zenodo.23499257. Website: [kontekstema.ru](https://kontekstema.ru).
 
 Контакты: hello@kontekstema.ru
